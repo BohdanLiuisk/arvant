@@ -1,0 +1,18 @@
+{
+  "languageName": "Українська",
+  "sidebar": {
+    "feed": "Стрічка",
+    "calendar": "Календар",
+    "friends": "Друзі",
+    "calls": "Дзвінки",
+    "settings": {
+      "label": "Налаштування",
+      "general": "Загальні",
+      "team": "Команда",
+      "limits": "Обмеження"
+    }
+  },
+  "header": {
+    "lang": "Мова"
+  }
+}

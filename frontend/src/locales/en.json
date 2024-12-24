@@ -1,0 +1,18 @@
+{
+  "languageName": "English",
+  "sidebar": {
+    "feed": "Feed",
+    "calendar": "Calendar",
+    "friends": "Friends",
+    "calls": "Calls",
+    "settings": {
+      "label": "Settings",
+      "general": "General",
+      "team": "Team",
+      "limits": "Limits"
+    }
+  },
+  "header": {
+    "lang": "Language"
+  }
+}
